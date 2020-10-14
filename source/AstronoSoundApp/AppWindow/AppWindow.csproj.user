@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Feunetres\CreationPlaylist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Feunetres\CréationMusique.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Feunetres\ImporterMusique.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC\DetailForCasualPlaylist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC\DetailForPlaylist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC\Menu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC\Research.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Feunetres\CréationMusique.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Feunetres\ImporterMusique.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Feunetres\CreationPlaylist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC\DetailForCasualPlaylist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC\DetailForPlaylist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC\Menu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC\Research.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

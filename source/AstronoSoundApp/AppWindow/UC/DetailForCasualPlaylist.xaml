@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="AppWindow.UC.DetailForCasualPlaylist"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AppWindow.UC"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <DockPanel>
+                <TextBlock Text="{Binding Titre}"  x:Name="namePlaylist" VerticalAlignment="Center" HorizontalAlignment="Center" DockPanel.Dock="Top" Margin="10" FontSize="20"/>
+                <WrapPanel Margin="5">
+                    <ScrollViewer>
+                        <TextBlock TextWrapping="Wrap" Text="{Binding Description}" x:Name="nameDescription" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15"/>
+                    </ScrollViewer>
+                </WrapPanel>
+            </DockPanel>
+            <Image Source="/data/image/add.png" Grid.Column="1" Margin="5"/>
+            <Grid Grid.Column="2" Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Vue(s)" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Text="{Binding NombreVisions}" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Genre(s)" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Text="{Binding Genre}" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Musique(s)" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Text="{Binding NombreDeMusique}" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <ListBox Grid.Column="0" ItemsSource="{Binding LesMusiques}" SelectionChanged="ListBox_SelectionChanged" SelectedItem="{Binding LesMusiques.SelectedMusic}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Titre}"></TextBlock>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="7*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Titre" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBlock Text="{Binding SelectedMusic.Titre}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1"/>
+
+                <TextBlock Text="Artiste" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1"/>
+                <TextBlock Text="{Binding SelectedMusic.LesArtistesToString}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="1"/>
+                <TextBlock Text="Genre" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2"/>
+                <TextBlock x:Name="leGenre" Text="{Binding SelectedMusic.Genre}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="2"/>
+                <TextBlock Text="Url" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3"/>
+                <TextBlock Text="{Binding SelectedMusic.Url}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="3"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

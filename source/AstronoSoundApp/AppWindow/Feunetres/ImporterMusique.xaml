@@ -1,0 +1,20 @@
+﻿<Window x:Class="AppWindow.Feunetres.ImporterMusique"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppWindow.Feunetres"
+        mc:Ignorable="d"
+        Icon="/Data/image/logoMusic.png"
+        Title="Importer une musique" Height="450" Width="400">
+    <DockPanel>
+        <TextBlock HorizontalAlignment="Center" DockPanel.Dock="Top" Text="Choississez Un titre parmi ceux proposée."></TextBlock>
+        <ListBox Grid.Column="0" ItemsSource="{Binding LesMusiques}" SelectionChanged="ListBox_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Titre}"></TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </DockPanel>
+</Window>

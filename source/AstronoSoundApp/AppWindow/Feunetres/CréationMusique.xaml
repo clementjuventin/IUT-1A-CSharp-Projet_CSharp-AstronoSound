@@ -1,0 +1,123 @@
+﻿<Window x:Class="AppWindow.Feunetres.CréationMusique"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppWindow.Feunetres"
+        mc:Ignorable="d"
+        Icon="/Data/image/logoMusic.png"
+        Title="Création d'une musique" Height="450" Width="800">
+    <Grid Background="{StaticResource arrierePlanSombre}">
+        <DockPanel>
+            <Grid DockPanel.Dock="Top" Height="100" Margin="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" DockPanel.Dock="Top">Titre</Label>
+                <TextBox Grid.Column="0" VerticalAlignment="Bottom" x:Name="Title"/>
+                <Label Grid.Column="1" DockPanel.Dock="Top">Genre</Label>
+                <ComboBox SelectionChanged="ComboBox_Selected" x:Name="comboBox" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="200" Grid.ColumnSpan="4" Height="20"/>
+            </Grid>
+            <Grid DockPanel.Dock="Top" Height="200" Margin="6">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Button Style="{StaticResource boutonValider}" Grid.Row="0"  Width="200" Click="SendButton">
+                        <Button.Content>
+                            <Border CornerRadius="5">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Foreground="{StaticResource arrierePlanClair}" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="4">
+                                            <Bold FontSize="12">Valider le titre</Bold>
+                                    </TextBlock>
+                                    <Image Source="/Data/image/check.png" Grid.Column="1" Margin="2"/>
+                                </Grid>
+                            </Border>
+                        </Button.Content>
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="7"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                    <Button Style="{StaticResource boutonAnnuler}" Grid.Row="1"  Width="200" Click="Button_Annuler">
+                        <Button.Content>
+                            <Border CornerRadius="5">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Foreground="{StaticResource arrierePlanClair}" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="4">
+                                            <Bold FontSize="12">Annuler</Bold>
+                                    </TextBlock>
+                                    <Image Source="/Data/image/back.png" Grid.Column="1" Margin="2"/>
+                                </Grid>
+                            </Border>
+                        </Button.Content>
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="7"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <DockPanel>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Label DockPanel.Dock="Top">Les Artistes</Label>
+                            <TextBlock Foreground="{StaticResource arrierePlanClair}" x:Name="nomsArtistes" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0 0 0 10"></TextBlock>
+                        </Grid>
+                        <DockPanel Height="20" Width="200">
+                            <TextBox x:Name="Artiste"  Width="180" KeyDown="Artiste_KeyDown"/>
+                            <Button Click="AddArtist" Height="20" Width="20">
+                                <Button.Content>
+                                    <Image Grid.Column="1" Source="/Data/image/addN.png"/>
+                                </Button.Content>
+                            </Button>
+                        </DockPanel>
+                    </DockPanel>
+                    <DockPanel Grid.Row="1">
+                        <Label DockPanel.Dock="Top">Url</Label>
+                        <TextBox x:Name="Url"/>
+                    </DockPanel>
+                </Grid>
+            </Grid>
+        </DockPanel>
+    </Grid>
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="{StaticResource arrierePlanClair}"/>
+            <Setter Property="Margin" Value="10, 0"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="FontFamily" Value="data\font\Comfortaa-Bold.ttf"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Height" Value="20"/>
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="BorderBrush" Value="Black"/>
+            <Setter Property="BorderThickness" Value="2"/>
+        </Style>
+    </Window.Resources>
+</Window>

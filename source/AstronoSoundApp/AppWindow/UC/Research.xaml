@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="AppWindow.UC.Research"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AppWindow.UC"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <TextBlock Height="40" DockPanel.Dock="Top" VerticalAlignment="Center"  Margin="20, 10, 10, -20" FontFamily="data\font\Comfortaa-Bold.ttf" FontWeight="Bold" FontSize="20">Playlist(s) Trouvée(s)</TextBlock>
+            <ListBox SelectionChanged="ListBox_SelectionChanged_Playlist" Grid.Column="1" ItemsSource="{Binding RecherchePlaylist}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="4">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Image x:Name="nameImage" Source="{Binding Photo}"/>
+                            <TextBlock x:Name="nameTitle" Grid.Row="1" FontWeight="Bold" Text="{Binding Titre}"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+        </DockPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <ListBox Grid.Column="0" ItemsSource="{Binding RechercheMusique}" SelectionChanged="ListBox_SelectionChanged" SelectedItem="{Binding LesMusiques.SelectedMusic}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Titre}"></TextBlock>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="7*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Titre" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBlock Text="{Binding MusiqueRechercheeSelectionnee.Titre}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1"/>
+
+                <TextBlock Text="Artiste" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1"/>
+                <TextBlock Text="{Binding MusiqueRechercheeSelectionnee.LesArtistesToString}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="1"/>
+                <TextBlock Text="Genre" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2"/>
+                <TextBlock x:Name="leGenre" Text="{Binding MusiqueRechercheeSelectionnee.Genre}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="2"/>
+                <TextBlock Text="Url" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3"/>
+                <TextBlock Text="{Binding MusiqueRechercheeSelectionnee.Url}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="3"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

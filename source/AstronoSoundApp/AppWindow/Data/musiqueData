@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMusique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Musique>
+    <Titre>Chily - Dans mon Barrio (Clip officiel)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=7Qnqn7Lvalc</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Chily</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle - J'entends (live Seule au Piano)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=OqUy7IOYt6g</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Soso Maness - So Maness (Clip officiel)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=Rj2VHP-yfoI</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Soso Maness</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Naps (feat. Ninho) - 6.3 (Clip Officiel)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=nFNWXGemcpM</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Naps Officiel</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Ninho</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Je vous déteste tous</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=AoI56lQsIy8</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>D.L.A - Lorenzo</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Lettre à une femme</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=fn6Zs00VaOM</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Ninho</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Gambi - Dans l'espace feat. Heuss l'Enfoiré (Clip officiel)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=w9i_5J-bTUA</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Gambi</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Heuss l'Enfoiré (Clip officiel)</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Maes - Blanche ft. Booba</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=9k_ddK4wVXM</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Maes officiel</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Booba</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>4Keus Feat. Niska - M.D</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=fsS_IS0xtRQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>4KEUS Officiel</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Ninho - Zipette (Clip officiel)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=5lzbP4ddQz8</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Ninho</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Hornet La Frappe - Calumet (Clip officiel)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=MwBth35xnnA</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Hornet La Frappe</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Heuss L'Enfoiré (ft. Sofiane) - Khapta (Clip Officiel)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=W-gmIG41dGA</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Heuss L'Enfoiré</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Sofiane</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle - Jalousie [CLIP OFFICIEL]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=hhhXegAbgrU</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Ahzee - King (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=nwJ_V9kt16Y</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Happy Music</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Dua Lipa - Don't Start Now (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=oygrmJFKYZY</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Dua Lipa</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle - La Thune [CLIP OFFICIEL]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=m3YX8zlR4BU</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Mike Candys - Anubis (Music Video HD)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=I7xgCtn8374</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Sirup Music</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Dua Lipa - Don't Start Now (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=oygrmJFKYZY</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Dua Lipa</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle feat. Roméo Elvis - Tout Oublier [CLIP OFFICIEL]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=Fy1xQSiLx8U</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Roméo Elvis</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Rebel feat Sidney Housen - Black Pearl (He's A Pirate) [Official Video]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=SfUC_4LmaIc</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Happy Music</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Sidney Housen</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Dua Lipa - Don't Start Now (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=oygrmJFKYZY</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Dua Lipa</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle - Oui ou Non [CLIP OFFICIEL]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=XqAiGeEzctQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Ahzee - Born Again (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=CmSGU4OVTAo</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Happy Music</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>The Weeknd - Blinding Lights</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=4NRXx6U8ABQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>The Weeknd</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle - Flou [CLIP OFFICIEL]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=D6Wi3SmmnAE</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>OMFG - Hello</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=ih2xubMaZWI</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>MrSuicideSheep</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Lil Mosey - Blueberry Faygo (Dir. by @_ColeBennett_)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=V_jHc_n0p9c</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Lyrical Lemonade</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle - J'entends (live Seule au Piano)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=OqUy7IOYt6g</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=kOkQ4T5WO9E</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Calvin Harris</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Rihanna</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Lil Mosey - Blueberry Faygo (Dir. by @_ColeBennett_)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=V_jHc_n0p9c</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Lyrical Lemonade</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle - Je veux tes yeux [CLIP OFFICIEL]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=D0KrWq0i1QI</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>David Guetta ft. Zara Larsson - This One's For You (Music Video) (UEFA EURO 2016™ Official Song)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=MoHnffhBwqs</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>David Guetta</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Zara Larsson</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Doja Cat - Say So (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=pok8H_KF1FA</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Doja Cat</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Angèle - Ta Reine | A COLORS SHOW</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=XQKYEs4llzg</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>COLORS</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>AronChupa - I'm an Albatraoz | OFFICIAL VIDEO</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=Bznxx12Ptl0</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>AronChupa &amp; Little Sis Nora</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>The Weeknd - Blinding Lights (Official Audio)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=fHI8X4OXluQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>The Weeknd</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>MACKLEMORE &amp; RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=QK8mJJJvaes</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Macklemore LLC</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>RYAN LEWIS</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Galantis - Runaway (U &amp; I) [Premiere]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=szj59j0hz_4</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Proximity</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>I</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Nombreux</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=OP9AYoE0M6U</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Angèle</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Camila Cabello - My Oh My (Official Music Video) ft. DaBaby</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=6fd2kkLmSDQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Camila Cabello</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>DaBaby</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Bigflo &amp; Oli - Dommage</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=8AF-Sm8d8yk</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Bigflo et Oli</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Oli</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>David Guetta - Titanium ft. Sia (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=JRfuAukYTKg</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>David Guetta</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Sia (Official Video)</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Clara Luciani - La grenade</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=85m-Qgo9_nE</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Clara Luciani</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>RIDSA - LA C'EST DIE (CLIP OFFICIEL)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=sLgDsfbfMQA</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>ridsaofficiel</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Maroon 5 - Memories (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=SlPhMPnQ58k</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Maroon 5</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Martin Garrix &amp; Brooks - Byte (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=zH9sXggRlxc</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Martin Garrix</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Brooks</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>VITAA &amp; SLIMANE - Avant toi (Clip Officiel)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=d6BzCEkGd3I</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>VITAA &amp; SLIMANE</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>SLIMANE</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Trop beau</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=BkZZ8kK3tZo</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Lomepal</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Taylor Swift - Bad Blood ft. Kendrick Lamar</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=QcIy9NiNbmo</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Taylor Swift</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Kendrick Lamar</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Ava Max - Blood, Sweat &amp; Tears [Official Lyric Video]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=PjelIssAltY</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Ava Max</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Tears [Official Lyric Video]</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Roméo Elvis - Soleil</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=JmIPRfMhzlM</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Roméo Elvis</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>twenty one pilots: Heathens (from Suicide Squad: The Album) [OFFICIAL VIDEO]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=UprcpdwuwCg</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Fueled By Ramen</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>benny blanco, Tainy, Selena Gomez, J. Balvin - I Can't Get Enough (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=Tztc73r8348</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>benny blanco</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Roméo Elvis - Soleil</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=JmIPRfMhzlM</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Roméo Elvis</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Kungs vs Cookin’ on 3 Burners - This Girl (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=2Y6Nne8RvaA</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>KUNGS</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>DJ Snake, J. Balvin, Tyga - Loco Contigo</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=zNl00mOSnJI</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>DJ Snake</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Lomepal - 1000°C (feat. Roméo Elvis) [Clip officiel]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=iXp9xuNi0mU</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Lomepal</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>Roméo Elvis</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>a-ha - Take On Me (Official 4K Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=djV11Xbc914</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>a-ha</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Queen - I Want To Break Free (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=f4Mc-NYPHaQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Queen Official</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Rick Astley - Never Gonna Give You Up (Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=dQw4w9WgXcQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Official Rick Astley</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Michael Jackson - Billie Jean (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=Zi_XLOBDo_Y</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Michael Jackson</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>FORD "Home Again" (Quarantine Performance)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=NR6rgLIBGuQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Monatomic Music</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Madonna - La Isla Bonita (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=zpzdgmqIHOQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Madonna</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Guns N' Roses - Sweet Child O' Mine (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=1w7OgIMMRc4</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Guns N' Roses</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Kaoma - Lambada (1989)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=csaUvkYOkLY</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Bhikkhu Dhammaraja</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Europe - The Final Countdown (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=9jK-NcRmVcw</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>europethebandtv</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Bon Jovi - Livin' On A Prayer (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=lDK9QqIzhwk</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Bon Jovi</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>"One Love" Divine Love Mission</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=5ba5GYYvDqI</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Monatomic Music</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Queen - Another One Bites the Dust (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=rY0WxgSXdEE</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Queen Official</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Eurythmics - Sweet Dreams (Are Made Of This) (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=qeMFqkcPYcg</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Eurythmics</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Michael Jackson - Beat It (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=oRdxUFDoQe0</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Michael Jackson</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Queen – Bohemian Rhapsody (Official Video Remastered)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=fJ9rUzIMcZQ</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Queen Official</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>The Police - Every Breath You Take</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=OMOGaugKpzs</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>The Police</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Berlin - Take My Breath Away (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=Bx51eegLTY8</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Berlin</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Foreigner - 'I Want To Know What Love Is' [Official Music Video]</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=raNGeq3_DtM</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>MajorApplePie</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Whitney Houston - I Wanna Dance With Somebody (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=eH3giaIzONA</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Whitney Houston</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Guns N' Roses - Paradise City</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=Rbm6GXllBiw</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Guns N' Roses</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Guns N' Roses - Welcome To The Jungle</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=o1tj2zJ2Wvg</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Guns N' Roses</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Elton John - Sacrifice</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=NrLkTZrPZA4</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Elton John</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Culture Club - Karma Chameleon (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=JmcA9LIIXWw</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Culture Club</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Laura Branigan - Self Control - All Night Fuji (1984)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=gm5F1-kfaJ8</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Laura Branigan Forever</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Michael Jackson - Bad (Shortened Version)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=dsUXAEzaC3Q</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Michael Jackson</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Technotronic - Pump Up The Jam (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=9EcjWd-O4jI</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>TechnotronicVEVO</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Tracy Chapman - Fast Car (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=AIOAlaACuv4</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Tracy Chapman</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Vanilla Ice - Ice Ice Baby (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=rog8ou-ZepE</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Vanilla Ice</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Whitesnake - Is This Love (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=GOJk0HW_hJw</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>RHINO</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Whitesnake - Is This Love (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=GOJk0HW_hJw</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>RHINO</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Journey - Don't Stop Believin' (Live in Houston)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=VcjzHMhBtf0</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>journey</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Dirty Dancing- Hungry Eyes</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=6oKUTOLSeMM</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Pune Ka</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>AC/DC - Shoot To Thrill (Iron Man 2 Version)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=xRQnJyP77tY</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>AC/DC</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Madonna - Material Girl (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=6p-lDYPR2P8</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Madonna</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Abba - The Winner Takes It All (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=92cwKCU8Z5c</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>ABBA</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Bryan Adams - Heaven (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=s6TtwR2Dbjg</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Bryan Adams</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Michael Jackson - Dirty Diana (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=yUi_S6YWjZw</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Michael Jackson</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Cyndi Lauper - Time After Time (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=VdQY7BusJNU</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Cyndi Lauper</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Tina Turner - What's Love Got To Do With It</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=oGpFcHTxjZs</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Tina Turner Official</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Fleetwood Mac - Gypsy (Official Music Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=mwgg1Pu6cNg</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Fleetwood Mac</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Michael Bolton - How Am I Supposed To Live Without You</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=YFood_bTOX4</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Michael Bolton</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Bob Marley &amp; The Wailers - Buffalo Soldier (Official Video)</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=uMUQMSXLlHM</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>Bob Marley</NomArtiste>
+      </Artiste>
+      <Artiste>
+        <NomArtiste>The Wailers</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+  <Musique>
+    <Titre>Bad Boys Blue - You're A Woman</Titre>
+    <Genre xsi:nil="true" />
+    <Url>
+      <Adresse>https://www.youtube.com/watch?v=5dkpk1gmaDc</Adresse>
+    </Url>
+    <LesArtistes>
+      <Artiste>
+        <NomArtiste>MELOMAN VIDEO</NomArtiste>
+      </Artiste>
+    </LesArtistes>
+  </Musique>
+</ArrayOfMusique>
