@@ -1,4 +1,4 @@
-# projetC--1A
+# IUT-1A-Projet_CSharp-AstronoSound
 Projet de C# de l'année 1 à l'iut. Astronosound, bibliothèque musicale avec fenêtre WPF..
 
 Ce projet contient notre projet à moi et Bastien Bouge. Nous l'avons réalisé dans le cadre de nos études à l'IUT informatique de Clermont-Ferrand. 
